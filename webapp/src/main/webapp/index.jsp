@@ -9,6 +9,6 @@ div {text-align: center;}
 <body>
 
 <h1 style="color:blue;"> Hello, Welcome to Our DevOps Project Jenkins integration with Ansible! </h1>
-<h1 style="color:blue;"> Version: 1.0.4 - Running Jenkins auto Pipeline to builds tomcat app via Ansible. </h1>
+<h1 style="color:blue;"> Version: 1.0.5 - CI/CD Pipeline to builds tomcat container on Dockerhost via Ansible. </h1>
 </body>
 </html>
